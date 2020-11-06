@@ -1,0 +1,5 @@
+Tresors;KELLOGS;céréeales;nourriture;dispo;5
+T-shirt;LEVIS;été;vêtements;dispo;8
+Steak;Charral;Viande Hachée;Nourriture;dispo;4
+Carotte;Leclerc;Legume;petite carotte orange;dispo;1
+

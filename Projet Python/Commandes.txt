@@ -1,0 +1,9 @@
+projetpython;{3: 'Tresors KELLOGS 5 €', 4: 'Steak Charral 4 €'};31.0;pas livrée;2020-05-08 16:29:48.498698
+Dupont;{2: 'T-shirt LEVIS 8 €'};16.0;pas livrée;2020-05-08 16:30:31.646592
+Durand;{1: 'Steak Charral 4 €'};4.0;pas livrée;2020-05-08 16:31:27.046763
+projetpython;{3: 'T-shirt LEVIS 8 €'};24.0;pas livrée;2020-05-09 13:58:22.535029
+projetpython;{3: 'T-shirt LEVIS 8 €', 1: 'Steak Charral 4 €'};28.0;pas livrée;2020-05-09 15:05:27.656182
+projetpython;{4: 'Tresors KELLOGS 5 €', 0: 'Steak Charral 4 €'};20.0;pas livrée;2020-05-09 15:06:04.129351
+projetpython;{3: 'T-shirt LEVIS 8 €', 4: 'Steak Charral 4 €', 1: 'Carotte Leclerc 1 €', 0: 'Tresors KELLOGS 5 €'};40.5;pas livrée;2020-05-09 15:10:05.314237
+projetpython;{1: 'T-shirt LEVIS 8 €', 2: 'Steak Charral 4 €'};21;pas livrée;2020-05-09 23:47:34.760025
+projetpython;{2: 'Tresors KELLOGS 5 €', 1: 'Carotte Leclerc 1 €', 3: 'Steak Charral 4 €'};31;pas livrée;2020-05-09 23:52:23.457003

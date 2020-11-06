@@ -1,0 +1,3 @@
+projetpython;equipepython;;;;;;LU MA ME;;;
+testbenevole;123456;Benevole;Bg;1997;123 rue du test;Mécanique;LU MA MER JEU VE;Oui;1;15;1970-10-09
+Matt;1324;Nouveau;Pren;01 01 01 01 01;148 Rue du rouet;Info;LU SA DI;Non;0;30;1991-01-01

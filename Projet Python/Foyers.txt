@@ -1,0 +1,5 @@
+projetpython;equipe@devinci.com;equipepython;0736542614;Courbevoie;{'Barthelemy': '21', 'Matthis': '22', 'Arthur': '23', 'Rafael': '20', 'Etienne': '20'}
+Durand;durand@gmail.com;durandpassword;0491657487;Poitier;{'Jeanne': '44', 'Maurice': '53'}
+Dupont;dupont@foyer.fr;dupontmdp;0789765534;Tours;{'Lucas': '2', 'Mathilde': '29', 'Thomas': '32'}
+Matt;matthis.python@test.com;ceciestuntest123;0708090146;15 rue des voleurs;{}
+test;projetpython@12.com;equipepython;0781294017;1513 avenue françois mitterrand;{'Nombre de personnes du foyer: ': '4'}
